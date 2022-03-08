@@ -1,0 +1,14 @@
+input::placeholder{
+    text-align: center;
+}
+.form-control{
+    width: 40%;
+    margin: 0 auto;
+}
+.btn{
+    margin-top: 20px;
+}
+h3{
+    color: #6c757d;
+    padding: 20px;
+}
